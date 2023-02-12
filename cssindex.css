@@ -1,0 +1,41 @@
+header {
+    background-image:
+        url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg')
+    height: 100%;
+    width: 100%;
+   }
+
+  h1 {
+      font-family: fantasy;
+  }
+
+  p {
+      font-family: monospace;
+  }
+
+  .minisub {
+      font-size: 30px;
+  }
+  #Title {
+      text-align: center;
+      font-size: 50px;
+      color: rgb(207, 203, 203);
+  }
+  #intro {
+      font-size: 18px;
+  }
+ #brushes {
+     background-color:aqua;
+ }
+ #paint {
+     background-color: magenta;
+ }
+ #frames {
+     background-color: orange;
+ }
+ nav {
+     background-color: orangered;
+ }
+ h2 {
+    font-weight: bold;
+ }
